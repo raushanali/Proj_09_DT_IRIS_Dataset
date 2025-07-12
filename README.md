@@ -2,7 +2,7 @@
 
 This project uses the scikit-learn library to classify iris flower species based on their physical measurements. It employs a Decision Tree Classifier model, which is a powerful machine learning algorithm.
 
-Purpose
+Purpose: 
 Classify iris flowers into 3 species based on 4 features (sepal length/width, petal length/width)
 
 Evaluate the performance of the Decision Tree model
